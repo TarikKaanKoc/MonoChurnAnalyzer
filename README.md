@@ -1,5 +1,7 @@
 # Mono-ChurnAnalyzer
 
+<img width="1449" alt="Ekran Resmi 2023-06-23 00 03 51" src="https://github.com/TKaanKoc/MonoChurnAnalyzer/assets/83168207/671b411f-bf75-4335-a9ac-efac07d8a79c">
+
 ChAnalyzer is a Python script designed to analyze churn rates based on user activity data stored in a PostgreSQL database. This script fetches data from the database, cleans it, and calculates the churn rate for a specified number of days. Additionally, it provides a method to check the status of a specific user.
 
 ## Prerequisites
